@@ -2,8 +2,9 @@
 public class Pokemon {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("  (\\__/)");
+		System.out.println("  (o^.^)");
+		System.out.println("z(_(\")(\")");
 	}
 
 }
